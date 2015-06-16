@@ -1,1 +1,0 @@
-/home/dgw36/Documents/openCV_learn/5_ColorReduce/CMakeFiles/color_reduce.dir
