@@ -1,1 +1,0 @@
-/home/dgw36/Documents/openCV_learn/test/CMakeFiles/test.dir
