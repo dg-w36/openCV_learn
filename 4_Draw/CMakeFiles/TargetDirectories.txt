@@ -1,1 +1,0 @@
-/home/dgw36/Documents/openCV_learn/4_Draw/CMakeFiles/draw.dir
